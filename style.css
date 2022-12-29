@@ -1,0 +1,9 @@
+.even {
+  text-align: center;
+}
+
+.lista {
+  line-height: 50px;
+  font-weight: 400;
+  list-style-type: none;
+}
