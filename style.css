@@ -1,9 +1,9 @@
-.even {
-  text-align: center;
+.list {
+  line-height: 50px;
+  font-size: 50px;
+  list-style-type: none;
 }
 
-.lista {
-  line-height: 50px;
-  font-weight: 400;
-  list-style-type: none;
+li:nth-of-type(even) {
+  text-align: center;
 }
